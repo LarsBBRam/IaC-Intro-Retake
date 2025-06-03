@@ -12,10 +12,11 @@
 ## Tooling
 
 - IaC: Pick on or the other, used for writing IaC modules
+
   - [Terraform]()
   - [OpenTofu]()
 
-## Cloud Providers
+- [Terraform Registry](https://registry.terraform.io/)
 
 #Ignore Provider binary in the gitignore
 main.tf
